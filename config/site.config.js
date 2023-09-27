@@ -20,7 +20,7 @@ module.exports = {
   title: "Spencer's OneDrive",
 
   // The folder that you are to share publicly with onedrive-vercel-index. Use '/' if you want to share your root folder.
-  baseDirectory: '/Public',
+  baseDirectory: 'https://50243z-my.sharepoint.com/:f:/g/personal/surferonedrive_50243z_onmicrosoft_com/EtkO2ln8UGBIjzGTecHt8lIBJEl58XCRldUrxOW4DZe-Vg?e=duhnEk',
 
   // [OPTIONAL] This represents the maximum number of items that one directory lists, pagination supported.
   // Do note that this is limited up to 200 items by the upstream OneDrive API.
